@@ -129,7 +129,7 @@ Obtenemos la solución de la sesión (si todo ha ido bien ese valor deería no s
 
 Esta parte `echo md5($input) === $secret;` ha cambiado por esta `echo $input === $secret;`.
 
-Y con todo esto, ya tendremos asegurado un buen sistema captcha, antgiguo y obsoleto, pero que nos brindará algo de seguridad.
+Y con todo esto, ya tendremos asegurado un buen sistema captcha, antiguo y obsoleto, pero que nos brindará algo de seguridad.
 
 Esto es el resultado (si hemos escrito bien el resultado):
 
